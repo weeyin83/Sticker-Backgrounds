@@ -1,6 +1,6 @@
 # Sticker Designs
 
-Here you will find stickers designs that I have created.  I am particularly found of the Scottish Nina Cat designs! ;-) 
+Here you will find stickers designs that I have created.  I am particularly fond of the Scottish Nina Cat designs! ;-) 
 
 ## Credits
 
