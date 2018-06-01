@@ -2,6 +2,10 @@
 
 Sharing my sticker and desktop background designs
 
+## Ninja Cat Sticker Index
+
+![alt text](./assets/ninjacatindex.jpg "Ninja Cat sticker index")
+
 ## Credits
 
 Written by: Sarah Lean
