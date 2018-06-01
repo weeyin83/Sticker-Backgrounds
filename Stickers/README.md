@@ -2,6 +2,10 @@
 
 Here you will find stickers designs that I have created.  I am particularly fond of the Scottish Nina Cat designs! ;-) 
 
+## Ninja Cat Sticker Index
+
+![alt text](./assets/ninjacatindex.jpg "Ninja Cat sticker index")
+
 ## Credits
 
 Written by: Sarah Lean
