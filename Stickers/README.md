@@ -4,9 +4,7 @@ Here you will find stickers designs that I have created.  I am particularly fond
 
 I'd recommend getting them printed out from [Stickermule](https://www.stickermule.com/uk/unlock?ref_id=1949190701&utm_medium=social&utm_source=invite)
 
-## Ninja Cat Sticker Index
 
-![alt text](./assets/ninjacatindex.jpg "Ninja Cat sticker index")
 
 ## Credits
 

@@ -2,7 +2,7 @@
 
 I'd recommend getting them printed out from [Stickermule](https://www.stickermule.com/uk/unlock?ref_id=1949190701&utm_medium=social&utm_source=invite)
 
-![alt text](./assets/ninjacatindex.jpg "Ninja Cat sticker index")
+![alt text](https://github.com/weeyin83/Sticker-Backgrounds/blob/master/Stickers/assets/ninjacatindex.jpg "Ninja Cat sticker index")
 
 ## Credits
 
