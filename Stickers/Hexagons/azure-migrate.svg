@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.5in"
+   height="5.5in"
+   viewBox="0 0 139.7 139.7"
+   version="1.1"
+   id="svg6015"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="azure-migrate.svg">
+  <defs
+     id="defs6009" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-10.826721"
+     inkscape:cy="532.66834"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2992"
+     inkscape:window-y="325"
+     inkscape:window-maximized="1"
+     units="in" />
+  <metadata
+     id="metadata6012">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-157.29998)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#442359;stroke-width:1.78899992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path6017"
+       sodipodi:sides="6"
+       sodipodi:cx="69.986706"
+       sodipodi:cy="226.81016"
+       sodipodi:r1="57.442589"
+       sodipodi:r2="49.746742"
+       sodipodi:arg1="0.52179863"
+       sodipodi:arg2="1.0453974"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 119.78507,255.44186 -49.694955,28.8108 -49.798363,-28.6317 -0.103405,-57.44249 49.694958,-28.8108 49.798365,28.6317 z" />
+    <g
+       transform="matrix(0.37823911,0,0,0.37823911,25.773288,189.8719)"
+       id="g6171"
+       style="stroke-width:0.83333331">
+      <polygon
+         style="fill:#505050;stroke-width:0.83333331"
+         points="89.268,81.996 45.293,81.996 41.161,87.457 93.399,87.457 "
+         id="polygon6159" />
+      <rect
+         style="fill:#404041;stroke-width:0.83333331"
+         x="41.132"
+         y="87.457001"
+         width="52.209"
+         height="1.431"
+         id="rect6161" />
+      <rect
+         style="fill:#404041;stroke-width:0.83333331"
+         x="56.923"
+         y="71.168999"
+         width="20.627001"
+         height="13.557"
+         id="rect6163" />
+      <path
+         style="fill:#404041;stroke-width:0.83333331"
+         inkscape:connector-curvature="0"
+         d="m 26.005,22.675 h 82.462 a 5.175,5.175 0 0 1 5.175,5.175 v 43.209 a 5.176,5.176 0 0 1 -5.176,5.176 H 26.006 A 5.175,5.175 0 0 1 20.831,71.06 V 27.849 a 5.174,5.174 0 0 1 5.174,-5.174 z"
+         id="path6165" />
+      <rect
+         style="opacity:0.37000002;fill:#6dc2e9;stroke-width:0.83333331"
+         x="25.986"
+         y="27.660999"
+         width="83.144997"
+         height="43.507999"
+         id="rect6167" />
+      <rect
+         x="56.923"
+         y="76.235001"
+         width="20.627001"
+         height="3.372"
+         id="rect6169"
+         style="stroke-width:0.83333331" />
+    </g>
+    <g
+       transform="matrix(0.37823911,0,0,0.37823911,25.773288,189.8719)"
+       id="g6185"
+       style="stroke-width:0.83333331">
+      <polygon
+         style="fill:#505050;stroke-width:0.83333331"
+         points="104.692,95.706 60.717,95.706 56.585,101.168 108.823,101.168 "
+         id="polygon6173" />
+      <rect
+         style="fill:#404041;stroke-width:0.83333331"
+         x="56.556"
+         y="101.168"
+         width="52.209"
+         height="1.431"
+         id="rect6175" />
+      <rect
+         style="fill:#404041;stroke-width:0.83333331"
+         x="72.347"
+         y="84.879997"
+         width="20.627001"
+         height="13.557"
+         id="rect6177" />
+      <path
+         style="fill:#404041;stroke-width:0.83333331"
+         inkscape:connector-curvature="0"
+         d="m 41.429,36.386 h 82.462 a 5.175,5.175 0 0 1 5.175,5.175 V 84.77 a 5.176,5.176 0 0 1 -5.176,5.176 H 41.43 A 5.175,5.175 0 0 1 36.255,84.771 V 41.56 a 5.174,5.174 0 0 1 5.174,-5.174 z"
+         id="path6179" />
+      <rect
+         style="opacity:0.68000034;fill:#6dc2e9;stroke-width:0.83333331"
+         x="41.41"
+         y="41.370998"
+         width="83.144997"
+         height="43.507999"
+         id="rect6181" />
+      <rect
+         x="72.347"
+         y="89.945999"
+         width="20.627001"
+         height="3.372"
+         id="rect6183"
+         style="stroke-width:0.83333331" />
+    </g>
+    <g
+       transform="matrix(0.37823911,0,0,0.37823911,25.773288,189.8719)"
+       id="g6203"
+       style="stroke-width:0.83333331">
+      <g
+         id="g6199"
+         style="stroke-width:0.83333331">
+        <polygon
+           style="fill:#505050;stroke-width:0.83333331"
+           points="76.141,109.416 72.009,114.878 124.247,114.878 120.116,109.416 "
+           id="polygon6187" />
+        <rect
+           style="fill:#404041;stroke-width:0.83333331"
+           x="71.980003"
+           y="114.878"
+           width="52.209"
+           height="1.431"
+           id="rect6189" />
+        <rect
+           style="fill:#404041;stroke-width:0.83333331"
+           x="87.771004"
+           y="98.589996"
+           width="20.627001"
+           height="13.557"
+           id="rect6191" />
+        <path
+           style="fill:#404041;stroke-width:0.83333331"
+           inkscape:connector-curvature="0"
+           d="m 56.853,50.1 h 82.462 a 5.175,5.175 0 0 1 5.175,5.175 V 98.48 a 5.176,5.176 0 0 1 -5.176,5.176 H 56.854 A 5.175,5.175 0 0 1 51.679,98.481 V 55.27 a 5.174,5.174 0 0 1 5.174,-5.17 z"
+           id="path6193" />
+        <rect
+           style="fill:#6dc2e9;stroke-width:0.83333331"
+           x="56.834"
+           y="55.082001"
+           width="83.144997"
+           height="43.507999"
+           id="rect6195" />
+        <rect
+           x="87.771004"
+           y="103.656"
+           width="20.627001"
+           height="3.372"
+           id="rect6197"
+           style="stroke-width:0.83333331" />
+      </g>
+      <path
+         style="fill:#ffffff;stroke-width:0.83333331"
+         inkscape:connector-curvature="0"
+         d="m 98.407,63.883 9.446,5.455 -9.446,5.455 -9.447,-5.455 z m 11.808,20.451 -9.447,5.455 V 78.883 l 9.447,-5.455 z m -23.616,0 V 73.423 l 9.446,5.456 v 10.905 z"
+         id="path6201" />
+    </g>
+    <g
+       transform="matrix(0.37823911,0,0,0.37823911,25.773288,189.8719)"
+       id="g6213"
+       style="stroke-width:0.83333331">
+      <rect
+         style="fill:#fdb813;stroke-width:0.83333331"
+         x="155.435"
+         y="92.238998"
+         width="10.152"
+         height="22.966"
+         id="rect6205" />
+      <rect
+         style="fill:#6ec2e9;stroke-width:0.83333331"
+         x="184.68201"
+         y="85.466003"
+         width="10.151"
+         height="29.739"
+         id="rect6207" />
+      <rect
+         style="fill:#0a8b44;stroke-width:0.83333331"
+         x="199.30499"
+         y="65.504997"
+         width="10.152"
+         height="49.700001"
+         id="rect6209" />
+      <rect
+         style="fill:#442359;stroke-width:0.83333331"
+         x="170.05901"
+         y="81.778"
+         width="10.151"
+         height="33.428001"
+         id="rect6211" />
+    </g>
+    <g
+       transform="matrix(0.37823911,0,0,0.37823911,25.773288,189.8719)"
+       id="g6221"
+       style="stroke-width:0.83333331">
+      <path
+         style="fill:#6ec2e9;stroke-width:0.83333331"
+         inkscape:connector-curvature="0"
+         d="m 149.971,28.273 a 24,24 0 1 0 44.314,12.779 h -24 z"
+         id="path6215" />
+      <path
+         style="fill:#442359;stroke-width:0.83333331"
+         inkscape:connector-curvature="0"
+         d="m 170.284,17.051 v 24 h 24 a 24,24 0 0 0 -24,-24 z"
+         id="path6217" />
+      <path
+         style="fill:#019e4a;stroke-width:0.83333331"
+         inkscape:connector-curvature="0"
+         d="m 170.284,41.052 v -24 a 23.922,23.922 0 0 0 -16.972,7.031 z"
+         id="path6219" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#442359;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       x="14.835567"
+       y="101.58631"
+       id="text6998"><tspan
+         sodipodi:role="line"
+         id="tspan6996"
+         x="14.835567"
+         y="111.24181"
+         style="fill:#442359;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.992504"
+       y="254.77759"
+       id="text8479"><tspan
+         sodipodi:role="line"
+         id="tspan8477"
+         x="28.992504"
+         y="254.77759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.40555573px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#442359;fill-opacity:1;stroke-width:0.26458332">Azure Migrate</tspan></text>
+  </g>
+</svg>
