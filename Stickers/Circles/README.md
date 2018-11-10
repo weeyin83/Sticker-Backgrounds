@@ -10,7 +10,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 This artwork can not be used for commercial purposes (anywhere revenue is obtained, including advertising).
 
-![preview](https://github.com/weeyin83/Stickers/Circles/blob/master/preview.png)
+![preview](https://github.com/weeyin83/Sticker-Backgrounds/blob/master/Stickers/Circles/preview.png)
 
 ## Credits
 
