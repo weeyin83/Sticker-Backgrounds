@@ -4,7 +4,11 @@ Here you will find stickers designs that I have created.  I am particularly fond
 
 I'd recommend getting them printed out from [Stickermule](https://www.stickermule.com/uk/unlock?ref_id=1949190701&utm_medium=social&utm_source=invite)
 
+## Legal
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This artwork can not be used for commercial purposes (anywhere revenue is obtained, including advertising).
 
 ## Credits
 
