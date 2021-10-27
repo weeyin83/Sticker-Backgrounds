@@ -2,6 +2,8 @@
 
 Here you will find stickers designs that I have created.  I am particularly fond of the Scottish Nina Cat designs! ;-) 
 
+You can also find information about where I find other sticker designs here - [https://www.techielass.com/stickers/](https://www.techielass.com/stickers/)
+
 I'd recommend getting them printed out from [Stickermule](https://www.stickermule.com/uk/unlock?ref_id=1949190701&utm_medium=social&utm_source=invite)
 
 ## Legal
